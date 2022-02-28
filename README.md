@@ -45,5 +45,5 @@ de identidad.
   * Use Maps como la estructura de datos para almacenar la información de los propietarios
 
 ## Fecha De Entrega: 7 marzo del 2022 / 11:59 PM
-*Link UML: https://drive.google.com/file/d/1ot37AoLYy98uTDRAX8Fur9H-gLAky184/view?usp=sharing*
-*Link Profe Luisa Rincon: https://github.com/lufe089/POO*
+* *Link UML: https://drive.google.com/file/d/1ot37AoLYy98uTDRAX8Fur9H-gLAky184/view?usp=sharing*
+* *Link Profe Luisa Rincon: https://github.com/lufe089/POO*
