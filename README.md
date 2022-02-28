@@ -44,4 +44,4 @@ de identidad.
 * Debe usar C++ para el desarrollo del proyecto
   * Use Maps como la estructura de datos para almacenar la información de los propietarios
 
-## Fecha De Entrega: 7 Marzo Del 2022 / 11:59 PM
+## Fecha De Entrega: 7 marzo del 2022 / 11:59 PM
