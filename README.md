@@ -1,9 +1,9 @@
 # POO \PROYECTO1CORTE/
 
 ## Integrantes:
-> Willian David Chapid (8965113).
-> Sebastian Gómez (8963213).
-> Miguel Angel Nivia Ortega (8958691).
+> * Willian David Chapid (8965113).
+> * Sebastian Gómez (8963213).
+> * Miguel Angel Nivia Ortega (8958691).
 
 ## Objetivos
 * Practicar los conceptos de clase, atributo, método y objeto.
